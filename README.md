@@ -3,6 +3,7 @@
 My reference sample app that I have been building out in my Xamarin 101 video series on YouTube!
 
 ## Videos:
+* [Controlling Image Caching in Xamarin.Forms & .NET MAUI](https://youtu.be/fdL-3mhUThY)
 * [Xamarin Tutorial for Beginners - Build iOS & Android Apps with C#, Visual Studio, and Xamarin.Forms](https://youtu.be/zvp7wvbyceo)
 * [Configuring & Optimizing Xamarin Projects - Smaller, Faster, Better Apps](https://youtu.be/7kVeC1_14Ag)
 * [Managing & Updating Xamarin NuGet Packages Efficiently](https://youtu.be/nDfO74TXQUg)
