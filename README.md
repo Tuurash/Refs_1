@@ -1,13 +1,5 @@
-# Blogs
+## Blogs
 - [Morioh](https://morioh.com/)
-
-
-
-
-
-# MyCoffeeApp
-
-My reference sample app that I have been building out in my Xamarin 101 video series on YouTube!
 
 ## Videos:
 * [Controlling Image Caching in Xamarin.Forms & .NET MAUI](https://youtu.be/fdL-3mhUThY)
@@ -30,3 +22,6 @@ My reference sample app that I have been building out in my Xamarin 101 video se
 * [Reusable Styles](https://youtu.be/Se0yF5JXk70) | branch - styles
 * [Custom Fonts & Font Icons](https://youtu.be/jZARFd8Gno0) | branch - custom-fonts
 * [App Themes](https://youtu.be/4w8TQ8njd3w) | branch - app-themes
+
+### MyCoffeeApp  
+My reference sample app that I have been building out in my Xamarin 101 video series on YouTube!
